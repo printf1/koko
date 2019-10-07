@@ -6,7 +6,8 @@ public class Koko {
 		// TODO Auto-generated method stub
 		for (int i = 0; i < 3; i++) {
 			
-			System.out.println("gaohui");
+			
+			System.out.println("gaohui123");
 		}
 		
 
