@@ -1,3 +1,0 @@
-module koko {
-	exports koko;
-}
