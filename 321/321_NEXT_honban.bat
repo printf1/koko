@@ -54,8 +54,8 @@ for /f "eol=' tokens=1-7 delims=," %%a in (%BATCH_PATH%321_honban_info.txt) do (
   
   
   
-  rem echo !uy!-!uy_v!
-  rem echo !bs!-!bs_v!
+  REM echo !uy!-!uy_v!
+  REM echo !bs!-!bs_v!
   REM check match
   
    
