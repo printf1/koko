@@ -26,13 +26,13 @@ set account_zb=
 set hokairai=
 set gp=
 
-set uy=‰^—p
+set uy=é‹ç”¨
 set uy_v=Administrators
 
-set bs=•Ûç
+set bs=ä¿å®ˆ
 set bs_v=Users
 
-set sys=ƒVƒXƒeƒ€
+set sys=Æ’VÆ’XÆ’eÆ’â‚¬
 set sys_v= 
 
 set cmd1=
