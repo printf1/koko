@@ -1,0 +1,55 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: null
+  generateName: koko-nginx-d865dfd4d-
+  labels:
+    app: koko-nginx
+    pod-template-hash: d865dfd4d
+  ownerReferences:
+  - apiVersion: apps/v1
+    blockOwnerDeletion: true
+    controller: true
+    kind: ReplicaSet
+    name: koko-nginx-d865dfd4d
+    uid: bd8c2043-722d-4493-9ea1-a038fcbcb96f
+  selfLink: /api/v1/namespaces/default/pods/koko-nginx-d865dfd4d-2b7ss
+spec:
+  containers:
+  - image: nginx:1.14-alpine
+    imagePullPolicy: IfNotPresent
+    name: nginx
+    resources: {}
+    terminationMessagePath: /dev/termination-log
+    terminationMessagePolicy: File
+    volumeMounts:
+    - mountPath: /var/run/secrets/kubernetes.io/serviceaccount
+      name: default-token-xxs97
+      readOnly: true
+  dnsPolicy: ClusterFirst
+  enableServiceLinks: true
+  nodeName: koko
+  priority: 0
+  restartPolicy: Always
+  schedulerName: default-scheduler
+  securityContext: {}
+  serviceAccount: default
+  serviceAccountName: default
+  terminationGracePeriodSeconds: 30
+  tolerations:
+  - effect: NoExecute
+    key: node.kubernetes.io/not-ready
+    operator: Exists
+    tolerationSeconds: 300
+  - effect: NoExecute
+    key: node.kubernetes.io/unreachable
+    operator: Exists
+    tolerationSeconds: 300
+  volumes:
+  - name: default-token-xxs97
+    secret:
+      defaultMode: 420
+      secretName: default-token-xxs97
+status:
+  phase: Pending
+  qosClass: BestEffort
