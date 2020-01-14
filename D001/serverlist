@@ -1,0 +1,181 @@
+#サーバ名:               IPアドレス:                   ユーザ名:              パスワード:           rootパスワード:
+
+eifrh01w               143.94.217.102                  infkiban                infkibanx             eifrh01w
+eifrh11w               143.94.217.103                  infkiban                infkibanx             eifrh01w
+eifgh01w               143.94.217.105                  infkiban                infkibanx             eifgh01w
+eifsh01w               143.94.217.114                  infkiban                infkibanx             eifsh01w
+eifsh02w               143.94.217.117                  infkiban                infkibanx             eifsh02w
+eifrh21w               143.94.217.104                  infkiban                infkibanx             eifrh21w
+eifgh02w               143.94.217.111                  infkiban                infkibanx             eifgh02w
+eifsh03w               143.94.217.120                  infkiban                infkibanx             eifsh03w
+eifsh04w               143.94.217.123                  infkiban                infkibanx             eifsh04w
+eifph01w               129.249.126.5                   infkiban                infkibanx             admin0201
+eifrq01w               143.94.59.96                    infkiban                infkibanx             fxisnec2011
+eifgq01w               143.94.59.97                    infkiban                infkibanx             fxisnec2011
+eifsq01w               143.94.59.102                   infkiban                infkibanx             eifsq01w
+eifsq02w               143.94.59.105                   infkiban                infkibanx             eifsq02w
+eifsq03w               143.94.59.108                   infkiban                infkibanx             eifsq03w
+eifsq04w               143.94.59.111                   infkiban                infkibanx             eifsq04w
+eifkq01w               143.94.59.114                   infkiban                infkibanx             eifkq01w
+eifpq01w               129.249.126.4                   infkiban                infkibanx             admin0101
+eifpq01w               129.249.126.4                   infkiban                infkibanx             admin0101
+eeaph01w               143.94.217.30                   ebsmap                  Fxismap10 
+eeaph02w               143.94.217.31                   ebsmap                  Fxismap10 
+eeaph03w               143.94.217.32                   ebsmap                  Fxismap10 
+eeaph04w               143.94.217.33                   ebsmap                  Fxismap10 
+eeaph05w               143.94.217.34                   ebsmap                  Fxismap10 
+eeaph06w               143.94.217.35                   ebsmap                  Fxismap10 
+eecnh01w               143.94.217.36                   ebsmap                  Fxismap10 
+eecnh02w               143.94.217.37                   ebsmap                  Fxismap10 
+eedbh01w               143.94.217.90                   ebsmdb                  Fxismdb10 
+eedbh02w               143.94.217.91                   ebsmdb                  Fxismdb10 
+eeapq01w               143.94.59.28                    ebsmap                  ebsm@p2011
+eedbq01w               143.94.59.84                    ebsmdb                  ebs@dm2011
+eedbq02w               143.94.59.85                    ebsmdb                  ebs@dm2011
+fwpdb00w               143.94.42.36                    ofwpedb                 0r@cle
+fwpdb01w               143.94.42.37                    ofwpedb                 0r@cle
+fwpdb02w               143.94.42.38                    ofwpedb                 0r@cle
+fwpap01w               143.94.42.25                    ofwpeap                 0r@cle
+fwpap02w               143.94.42.27                    ofwpeap                 0r@cle
+fwpap03w               143.94.42.29                    ofwpeap                 0r@cle
+fwpbp00w               143.94.42.44                    ofwpbp                  0r@cle
+fwpbp01w               143.94.42.45                    ofwpbp                  0r@cle
+fwpbp02w               143.94.42.46                    ofwpbp                  0r@cle
+fwpdr01w               143.94.42.41                    ofwpedb                 0r@cle
+fwpar01w               143.94.42.40                    ofwpeap                 0r@cle
+ft01w                  172.18.20.12                    ofwh11e                 oracle
+ft02w                  172.18.20.13                    ofwi15b                 oracle
+ft03w                  172.18.20.14                    ofwh11e                 oracle
+ft04w                  172.18.20.5                     ofwh11e                 oracle
+xgpbp01a               129.249.126.7                   oxgp01b                 oracle
+xgpbp01a.ydc.fujixerox.co.jp    129.249.126.7          oxgp01b                 oracle 
+xgdbp01a               129.249.42.166                  oxgd01b                 oracle
+xgdbp01a.ydc.fujixerox.co.jp    129.249.42.166         oxgd01b                 oracle 
+hccora01               129.249.120.4                   sysop                   Ccposys0720! 
+hcccti01               129.249.120.5                   sysop                   Ccposys0720! 
+hccfwk01               129.249.120.6                   sysop                   Ccposys0720! 
+hccurs01               129.249.120.7                   sysop                   Ccposys0720! 
+hcccca01               129.249.120.8                   sysop                   Ccposys0720! 
+hccccp01               129.249.120.9                   sysop                   Ccposys0720! 
+hccicn01               129.249.120.10                  sysop                   Ccposys0720! 
+hcccom01               129.249.120.11                  sysop                   Ccposys0720! 
+hccinf01               129.249.120.12                  sysop                   Ccposys0720! 
+hcckpi01               129.249.120.15                  sysop                   Ccposys0720! 
+hccora02               129.249.120.132                 sysop                   Ccposys0720! 
+hcccti02               129.249.120.133                 sysop                   Ccposys0720! 
+hccfwk02               129.249.120.134                 sysop                   Ccposys0818! 
+hccurs02               129.249.120.135                 sysop                   Ccposys0720! 
+hcccca02               129.249.120.136                 sysop                   Ccposys0720! 
+hccccp02               129.249.120.137                 sysop                   Ccposys0720! 
+hccicn02               129.249.120.138                 sysop                   Ccposys0720! 
+hcccom02               129.249.120.139                 sysop                   Ccposys0720! 
+qccora01               129.249.120.140                 sysop                   sysop2015 
+qcccti01               129.249.120.142                 sysop                   sysop2015 
+qccurs01               129.249.120.143                 sysop                   sysop2015 
+qccfwk01               129.249.120.144                 sysop                   sysop2015 
+qccccp01               129.249.120.145                 sysop                   sysop2015 
+japdb10w               143.94.42.133                   sysop001                001sysop 
+japap10w               143.94.42.137                   sysop001                001sysop 
+japap20w               143.94.42.141                   sysop001                001sysop 
+mt11w                  143.94.42.77                    sysop001                001sysop 
+mt21w                  143.94.42.82                    sysop001                001sysop 
+mb11w                  143.94.42.92                    sysop001                001sysop 
+mb21w                  143.94.42.90                    sysop001                001sysop 
+mc21w                  143.94.42.86                    sysop001                001sysop 
+mt14w                  143.94.42.80                    sysop001                001sysop 
+mt15w                  143.94.42.101                   sysop001                001sysop 
+mt16w                  143.94.42.128                   sysop001                001sysop 
+mc11w                  143.94.42.88                    sysop001                001sysop 
+me21w                  143.94.42.156                   sysop001                001sysop 
+mf21w                  143.94.42.158                   sysop001                001sysop 
+mb11w                  143.94.42.92                    sysop001                001sysop 
+mt14w                  143.94.42.80                    sysop001                001sysop 
+mt15w                  143.94.42.101                   sysop001                001sysop 
+mt16w                  143.94.42.128                   sysop001                001sysop 
+fwb01w                 143.94.42.10                    sysop001                001sysop 
+cbghwdb1               129.249.120.25                  unyou01                 unyou0701
+cbgqwdb1               129.249.120.26                  unyou01                 unyou0701 
+yccweb01               172.22.51.11                    xerox-1                 X-web01% 
+yccweb02               172.22.51.12                    xerox-2                 X-web02% 
+yccweb03               172.22.51.13                    xerox-3                 X-web03% 
+yccap01                172.22.51.16                    xerox-1                 X-ap01% 
+yccap02                172.22.51.17                    xerox-2                 X-ap02% 
+yccap03                172.22.51.18                    xerox-3                 X-ap03% 
+yccdb01                172.22.51.21                    xerox-1                 X-db01% 
+yccdb02                172.22.51.22                    xerox-2                 X-db02% 
+yccbk01                172.22.51.31                    xerox-1                 X-bk01% 
+ycsvs01                172.22.52.43                    xerox-1                 X-vs01% 
+ycsvs02                172.22.52.44                    xerox-2                 X-vs02% 
+yccts01                172.22.52.99                    xerox-1                 X-ts01% 
+yccts02                172.22.52.100                   xerox-2                 X-ts02% 
+ycsts01                172.22.52.163                   xerox-1                 X-ts03% 
+ntqms-ap-h01           129.249.122.5                   sysop001                ntqop** 
+ntqms-ap-h02           129.249.122.133                 sysop001                ntqop** 
+ntqms-ap-qa01          129.249.122.8                   kiban                   kiban 
+ntqms-ap-qa02          129.249.122.135                 kiban                   kiban 
+eapl51w                172.25.235.132                  op0001                  pl5mop11 
+eapl52w                172.25.235.133                  op0001                  pl5sop11 
+eapl53w                172.25.235.134                  op0001                  pl5lop11 
+eapl61w                172.25.235.140                  epsys                   sysepsys 
+eapl62w                172.25.235.141                  epsys                   ysepsys 
+eapl63w                172.25.235142                   epsys                   ysepsys 
+epiapl61               143.94.0.200                    epsys                   ysepsys 
+epiapl62               143.94.0.201                    epsys                   ysepsys 
+epiids61               143.94.0.198                    epsys                   ysepsys 
+epiids62               143.94.0.199                    epsys                   ysepsys 
+epiids51               143.94.0.193                    epsys                   ysepsys 
+epiids52               143.94.0.194                    epsys                   ysepsys 
+epiapl51               143.94.0.195                    epsys                   ysepsys 
+epiapl51               143.94.0.196                    epsys                   ysepsys 
+eids51w                172.25.235.129                  op0001                  ds5mop12
+eids52w                172.25.235.130                  op0001                  ds5sop12
+eids53w                172.25.235.131                  op0001                  ds5lop12
+eids61w                172.25.235.137                  epsys                   epsysepsys 
+eids62w                172.25.235.138                  epsys                   epsysepsys 
+eids63w                172.25.235.139                  epsys                   epsysepsys 
+eamdh01w               143.94.217.62                   edw01                   edw01Q 
+eamah01w               143.94.217.59                   webap01                 webap01x 
+eamdq01w               143.94.59.51                    edw01                   edw01Q 
+eamaq01w               143.94.59.48                    webap01                 webap01Q 
+eqqfw01s               172.24.116.193                  maintenance             _Ma1nte3476Nance 
+eqqdw01s               172.24.116.194                  maintenance             _Ma1nte3476Nance 
+eqqsr01s               172.24.116.195                  maintenance             _Ma1nte3476Nance 
+eqqfa01w               129.249.81.144                  maintenance             _Ma1nte3476Nance 
+eqqda01w               129.249.81.140                  maintenance             _Ma1nte3476Nance 
+eqqbt01w               129.249.81.143                  maintenance             _Ma1nte3476Nance 
+eqqrp01w               129.249.81.139                  maintenance             _Ma1nte3476Nance 
+eqqbk01w               129.249.81.142                  maintenance             _Ma1nte3476Nance 
+eqhfw01s               172.24.116.97                   maintenance             _Ma1nte1001Nance 
+eqhfw02s               172.24.116.98                   maintenance             _Ma1nte1001Nance 
+eqhfw03s               172.24.116.106                  maintenance             _Ma1nte1001Nance 
+eqhdw01s               172.24.116.99                   maintenance             _Ma1nte1001Nance 
+eqhdw02s               172.24.116.100                  maintenance             _Ma1nte1001Nance 
+eqhsr01s               172.24.116.101                  maintenance             _Ma1nte1001Nance 
+eqhsr02s               172.24.116.102                  maintenance             _Ma1nte1001Nance 
+eqhfa01w               143.94.122.54                   maintenance             _Ma1nte1001Nance 
+eqhfa02w               143.94.122.55                   maintenance             _Ma1nte1001Nance 
+eqhfa03w               143.94.122.63                   maintenance             _Ma1nte1001Nance 
+eqhfa04w               143.94.122.64                   maintenance             _Ma1nte1001Nance 
+eqhda01w               143.94.122.56                   maintenance             _Ma1nte1001Nance 
+eqhda02w               143.94.122.57                   maintenance             _Ma1nte1001Nance 
+eqhbt01w               143.94.122.58                   maintenance             _Ma1nte1001Nance 
+eqhbt02w               143.94.122.59                   maintenance             _Ma1nte1001Nance 
+eqhrp01w               143.94.122.60                   maintenance             _Ma1nte1001Nance 
+eqhdb01w               143.94.122.30                   maintenance             _Ma1nte1001Nance 
+eqhdb02w               143.94.122.33                   maintenance             _Ma1nte1001Nance 
+eqhbk01w               143.94.122.61                   maintenance             _Ma1nte1001Nance 
+icdbq01w               129.249.17.9                    oracle                  Dba_2011 
+icdbh01w               129.249.17.8                    oracle                  Dba_2011 
+icwah01w               129.249.17.10                   weblogic                Webadmin_2011 
+sejdbq01w              129.249.120.31                  mt0002                  mt0002 
+sejapq01w              129.249.120.30                  mt0002                  mt0002 
+sejdbh01w              129.249.120.29                  mt0002                  mt0002 
+sejaph01w              129.249.120.28                  mt0002                  mt0002 
+sejftq1w               172.25.230.145                  mt0002                  mt0002
+sejfth1w               172.25.230.129                  mt0002                  mt0002
+sejfth2w               172.25.230.130                  mt0002                  mt0002
+mpc1w1                 129.249.125.18                  essystem                mpcES10 
+mpc1db1                129.249.125.19                  gemstone                mpcGE10 
+ecidq01w               143.94.59.46                    cif                     cif 
+ecidh01w               143.94.217.57                   cif                     cif 
+euwkh01w               143.94.48.182                   itcc_common             itcc_common   
