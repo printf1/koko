@@ -1,0 +1,7 @@
+SELECT column_name FROM 登録職責_20190529
+       *
+行1でエラーが発生しました。:
+ORA-00904: "COLUMN_NAME": 無効な識別子です。
+
+
+  1* SELECT column_name FROM 登録職責_20190529

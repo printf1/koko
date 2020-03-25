@@ -1,0 +1,84 @@
+2020-03-16 11:55:07 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 11:55:07 E J003_J004_Shell_001.sh can not found domain server domain=OP運用
+2020-03-16 11:56:48 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 11:56:48 E J003_J004_Shell_001.sh can not found domain server domain=OP運用
+2020-03-16 11:57:51 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 11:57:51 E J003_J004_Shell_001.sh can not found domain server domain=OP運用
+2020-03-16 15:17:21 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 15:17:21 E J003_J004_Shell_001.sh Argument is not input correctly.
+2020-03-16 15:17:21 E J003_J004_Shell_001.sh Usage：/workhome/itcc/work/shell/J003_J004_Shell_001.sh <環境名> <領域> <連番> <JP1FLAG> <JP1DATE> <jobId> <job_token> <ticketNumber> <token-success> <token-failed>
+2020-03-16 15:41:59 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 15:41:59 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS//RECO/2020-03-16#000
+2020-03-16 15:41:59 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS//RECO/2020-03-16#000
+2020-03-16 15:41:59 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS//RECO/2020-03-16#000 executed failed!
+2020-03-16 15:41:59 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-16 15:59:29 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 15:59:29 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS//RECO/2020-03-16#000
+2020-03-16 15:59:29 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS//RECO/2020-03-16#000
+2020-03-16 15:59:29 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS//RECO/2020-03-16#000 executed failed!
+2020-03-16 15:59:29 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-16 17:11:22 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-16 17:11:22 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-16#000
+2020-03-16 17:11:22 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-16#000
+2020-03-16 17:11:22 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-16#000 executed failed!
+2020-03-16 17:11:22 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 18:13:25 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 18:13:25 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:13:25 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:13:25 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 18:13:25 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 18:18:41 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 18:18:41 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:18:41 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:18:41 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 18:18:41 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 18:41:14 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 18:41:14 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:41:14 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:41:46 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 18:41:46 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 18:51:55 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 18:51:55 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:51:55 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 18:52:27 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 18:52:27 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 19:11:11 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 19:11:11 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:11:11 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:11:29 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 19:11:29 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 19:20:01 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 19:20:01 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:20:01 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:20:20 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 19:20:20 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-17 19:31:05 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-17 19:31:05 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:31:05 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000
+2020-03-17 19:31:29 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/EBS/RECO/2020-03-17#000 executed failed!
+2020-03-17 19:31:29 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-18 12:41:14 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-18 12:41:14 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 12:41:14 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 12:41:14 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000 executed failed!
+2020-03-18 12:41:14 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-18 12:49:20 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-18 12:49:20 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 12:49:20 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 12:49:20 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000 executed failed!
+2020-03-18 12:49:20 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-18 16:17:23 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-18 16:17:23 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:17:23 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:17:55 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000 executed failed!
+2020-03-18 16:17:55 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-18 16:27:03 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-18 16:27:03 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:27:03 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:27:03 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000 executed failed!
+2020-03-18 16:27:03 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end
+2020-03-18 16:32:40 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is start
+2020-03-18 16:32:40 I J003_J004_Shell_001.sh jp1 cmd is /opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:32:40 I J003_J004_Shell_001.sh jp1_log cmd is /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+2020-03-18 16:32:40 E J003_J004_Shell_001.sh /opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000 executed failed!
+2020-03-18 16:32:40 I J003_J004_Shell_001.sh J003_J004_Shell_001.sh is end

@@ -1,0 +1,3 @@
+# server_name,instance_name(instance_name/user_name),db_connection_string,nls_lang,[h|q]
+
+rolesvr02,role/roleehub,roleehub/Roleehub_2012@role,JAPANESE_JAPAN.JA16SJIS,q

@@ -1,0 +1,72 @@
+2020-03-23 11:29:42 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 11:29:42 I S002_Shell_Transfer.sh db select start.
+2020-03-23 12:03:25 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 12:03:25 I S002_Shell_Transfer.sh db select start.
+2020-03-23 13:47:39 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 13:47:39 I S002_Shell_Transfer.sh db select start.
+2020-03-23 14:00:31 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 14:00:31 I S002_Shell_Transfer.sh db select start.
+2020-03-23 14:48:45 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 14:48:45 I S002_Shell_Transfer.sh db select start.
+2020-03-23 16:06:39 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 16:06:39 I S002_Shell_Transfer.sh db select start.
+2020-03-23 16:40:54 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 16:40:54 I S002_Shell_Transfer.sh db select start.
+2020-03-23 16:48:54 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 16:48:54 I S002_Shell_Transfer.sh db select start.
+2020-03-23 17:10:57 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 17:10:57 I S002_Shell_Transfer.sh db select start.
+2020-03-23 17:57:01 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 17:57:01 I S002_Shell_Transfer.sh db select start.
+2020-03-23 18:31:04 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 18:31:04 I S002_Shell_Transfer.sh db select start.
+2020-03-23 18:57:05 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-23 18:57:05 I S002_Shell_Transfer.sh db select start.
+2020-03-24 10:36:33 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 10:36:33 I S002_Shell_Transfer.sh db select start.
+2020-03-24 10:36:34 I S002_Shell_Transfer.sh sql_log_name_1=/workhome/itcc/work/temp/sql_update_03_1.log
+2020-03-24 10:36:34 I S002_Shell_Transfer.sh sql_log_name_2=/workhome/itcc/work/temp/sql_update_03_2.log
+2020-03-24 10:36:35 I S002_Shell_Transfer.sh sql_select.sh executed successfully!
+2020-03-24 10:36:35 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is end
+2020-03-24 10:56:29 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 10:56:29 I S002_Shell_Transfer.sh db select start.
+2020-03-24 10:56:30 I S002_Shell_Transfer.sh sql_log_name_1=/workhome/itcc/work/temp/sql_update_03_1.log
+2020-03-24 10:56:30 I S002_Shell_Transfer.sh sql_log_name_2=/workhome/itcc/work/temp/sql_update_03_2.log
+2020-03-24 11:33:35 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 11:33:35 I S002_Shell_Transfer.sh db select start.
+2020-03-24 11:52:32 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 11:52:32 I S002_Shell_Transfer.sh db select start.
+2020-03-24 12:20:23 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 12:20:23 I S002_Shell_Transfer.sh db select start.
+2020-03-24 15:19:35 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 15:19:35 I S002_Shell_Transfer.sh db select start.
+2020-03-24 15:52:53 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 15:52:53 I S002_Shell_Transfer.sh db select start.
+2020-03-24 18:52:13 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 18:52:13 I S002_Shell_Transfer.sh db select start.
+2020-03-24 19:21:11 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 19:21:11 I S002_Shell_Transfer.sh db select start.
+2020-03-24 19:44:13 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 19:44:13 I S002_Shell_Transfer.sh db select start.
+2020-03-24 20:00:15 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 20:00:15 I S002_Shell_Transfer.sh db select start.
+2020-03-24 20:24:16 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-24 20:24:16 I S002_Shell_Transfer.sh db select start.
+2020-03-25 10:49:02 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-25 10:49:02 I S002_Shell_Transfer.sh db select start.
+2020-03-25 11:02:48 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-25 11:02:48 I S002_Shell_Transfer.sh db select start.
+2020-03-25 11:08:01 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-25 11:08:01 I S002_Shell_Transfer.sh db select start.
+2020-03-25 11:11:53 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-25 11:11:53 I S002_Shell_Transfer.sh db select start.
+2020-03-25 11:11:54 I S002_Shell_Transfer.sh sql_log_name_1=/workhome/itcc/work/temp/sql_update_03_1.log
+2020-03-25 11:11:54 I S002_Shell_Transfer.sh sql_log_name_2=/workhome/itcc/work/temp/sql_update_03_2.log
+2020-03-25 11:11:54 I S002_Shell_Transfer.sh sql_update.sh executed successfully!
+2020-03-25 11:11:54 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is end
+2020-03-26 13:50:56 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is start
+2020-03-26 13:50:56 I S002_Shell_Transfer.sh db select start.
+2020-03-26 13:50:56 I S002_Shell_Transfer.sh sql_log_name_1=/workhome/itcc/work/temp/sql_update_03_1.log
+2020-03-26 13:50:56 I S002_Shell_Transfer.sh sql_log_name_2=/workhome/itcc/work/temp/sql_update_03_2.log
+2020-03-26 13:50:56 I S002_Shell_Transfer.sh sql_update.sh executed successfully!
+2020-03-26 13:50:57 I S002_Shell_Transfer.sh S002_Shell_Transfer.sh is end

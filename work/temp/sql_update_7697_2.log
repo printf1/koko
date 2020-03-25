@@ -1,0 +1,23 @@
+
+SQL*Plus: Release 11.2.0.1.0 Production on 水 3月 25 11:11:53 2020
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+
+Oracle Database 11g Release 11.2.0.3.0 - Production
+に接続されました。
+SQL> 
+1行が更新されました。
+
+SQL>   1  UPDATE 登録職責_20190529
+  2  SET
+  3	 使用終了日 = '15-01-29',
+  4	 更新日 = '15-01-29'
+  5  WHERE
+  6	  ユーザID = 'fx27966'
+  7* AND     職責ID = 'XXPO_VND_01_NGX'
+SQL> 
+ロールバックが完了しました。
+
+SQL> Oracle Database 11g Release 11.2.0.3.0 - Productionとの接続が切断されました。

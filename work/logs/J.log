@@ -1,0 +1,21 @@
+sig_1
+K開発検証実行環境 null#null3null 0
+sig_2
+sig_3
+v_domain=
+eujpd01w
+v_server_ip=eujpd01w
+sig_4
+v_domain_path_1=“基盤
+v_domain_path=基盤/
+sig_5
+v_reco_path=RECO
+v_date_path=2020-03-18
+v_number_path=000
+sig_6
+sig_7
+cmd_jp1=/opt/jp1ajs2/bin/ajsentry -F AJSROOT2 -n -w /K開発検証実行環境/基盤/RECO/2020-03-18#000
+cmd_jp1_log=/opt/jp1ajs2/bin/ajsshow -F AJSROOT2 -f "%C %E %J" -E /K開発検証実行環境/基盤/RECO/2020-03-18#000
+password:ukbn201103
+result=spawn ssh root@eujpd01w The authenticity of host 'eujpd01w (143.94.48.153)' can't be established. RSA key fingerprint is f9:4f:3e:ae:10:c5:8e:23:a0:b0:ca:14:e2:18:5b:a0. Are you sure you want to continue connecting (yes/no)? yes Warning: Permanently added 'eujpd01w' (RSA) to the list of known hosts. root@eujpd01w's password:  Last login: Wed Mar 18 16:04:23 2020 from euwkd01w [root@eujpd01w ~]# exit logout TERM environment variable not set. Connection to eujpd01w closed.
+sig_10

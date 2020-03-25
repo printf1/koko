@@ -1,0 +1,31 @@
+S002_Start
+DB_Pattern -x
+Transfer-start
+/workhome/home/workusers/op9803
+参数个数7
+1:op9803
+2:5e7c349e9194be00012b0104
+3:b526f3de-838d-49e2-9379-2a1058cf274f
+op9803
+rolesvr02 2020/03/26/7726_s002_update_ora_error.sql role/rolehub -commit
+/workhome/itcc/work/temp/sql_update_03_1.log
+SQL_updata.sh Start
+SQL_updata_call.sh Start
+SQL_updata_pre.sh Start
+Process No. is '14594'.
+db_string=roleehub/Roleehub_2012@roleehub
+nls_lang=JAPANESE_JAPAN.JA16SJIS
+par1=rolesvr02
+par2=2020/03/26/7726_s002_update_ora_error.sql
+par3=role/rolehub
+par4=-commit
+hon_qa=q
+opuser:op5000
+shdir:/workhome/itcc/work/old_shell
+sqldir:/workhome/home/ort/qa_sql/2020/03/26/7726_s002_update_ora_error.sql
+SQL_updata_exe Start
+OUTLOGDIR:/workhome/itcc/work/temp/sql_update_7726_2.log
+exit sql_update_exe:0
+ErrorNumber in call SQL:0
+log_string1:/workhome/itcc/work/temp/sql_update_7726_2.log:SPACENoSPACEsuchSPACEfileSPACEorSPACEdirectoryENTERENTERSQL*Plus:SPACEReleaseSPACE11.2.0.1.0SPACEProductionSPACEonSPACE木SPACE3月SPACE26SPACE13:50:56SPACE2020ENTERENTERCopyrightSPACE(c)SPACE1982,SPACE2009,SPACEOracle.SPACESPACEAllSPACErightsSPACEreserved.ENTERENTERENTERENTEROracleSPACEDatabaseSPACE11gSPACEReleaseSPACE11.2.0.3.0SPACE-SPACEProductionENTERに接続されました。ENTERSQL>SPACESPACESPACESPACESPACE使用終了SPACE=SPACE'15-01-29'ENTERSPACESPACESPACESPACE*ENTER行3でエラーが発生しました。:ENTERORA-00904:SPACE"使用終了":SPACE無効な識別子です。ENTERENTERENTERSQL>SPACESPACESPACE1SPACESPACEUPDATESPACE登録職責_20190529ENTERSPACESPACE2SPACESPACESETENTERSPACESPACE3	SPACE使用終了SPACE=SPACE'15-01-29'ENTERSPACESPACE4SPACESPACEWHEREENTERSPACESPACE5	SPACESPACEユーザIDSPACE=SPACE'fx27966'ENTERSPACESPACE6*SPACEANDSPACESPACESPACESPACESPACE職責IDSPACE=SPACE'XXPO_VND_01_NGX'ENTERSQL>SPACEENTERコミットが完了しました。ENTERENTERSQL>SPACEOracleSPACEDatabaseSPACE11gSPACEReleaseSPACE11.2.0.3.0SPACE-SPACEProductionとの接続が切断されました。ENTER
+log_string:
