@@ -8,8 +8,7 @@ cmd_jp1=$3
    expect "(yes/no)?"
    send "yes\n"
    expect "password:"
-   send "${ROOT_PASSWD}\n"
-   
+   send "${ROOT_PASSWD}\n"  
    expect "#" 
    send "exit\n" 
    expect eof
