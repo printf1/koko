@@ -1,0 +1,113 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: node-exporter
+  namespace: kube-system
+
+---
+
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: node-exporter
+  namespace: kube-system
+rules:
+- apiGroups:
+    - ""
+  resources:
+    - nodes
+    - pods
+    - endpoints
+    - services
+  verbs:
+    - get
+    - list
+    - watch
+
+---
+
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata: 
+  name: node-exporter
+  namespace: kube-system
+roleRef:
+  apiGroup: rbac.authorization.k8s.io
+  kind: ClusterRole
+  name: cluster-admin
+subjects:
+- kind: ServiceAccount
+  name: node-exporter
+  namespace: kube-system
+
+---
+
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+   name: node-exporter
+   namespace: kube-system
+   labels:
+      app: node-exporter
+spec:
+   selector:
+      matchLabels:
+         app: node-exporter
+   template:
+      metadata:
+         labels:
+              app: node-exporter
+      spec:
+         serviceAccountName: node-exporter
+         tolerations:
+            - key: node-role.kubernetes.io/master
+              effect: NoSchedule
+         containers:
+            - name: node-exporter
+              image: prom/node-exporter:v1.0.0
+              imagePullPolicy: IfNotPresent
+              command: ["/bin/node_exporter"]
+              ports:
+               - containerPort: 9100
+                 name: http
+                 protocol: TCP
+              resources:
+                 limits:
+                   cpu: 1000m 
+                   memory: 200Mi
+                 requests:
+                   cpu: 100m
+                   memory: 200Mi
+              volumeMounts: 
+                 - name: varlog
+                   mountPath: /var/log
+                 - name: node-exporter
+                   mountPath: /var/lib/docker/node-exporter
+                   readOnly: true
+         terminationGracePeriodSeconds: 30
+         volumes:
+            - name: varlog
+              hostPath: 
+                   path: /var/log
+            - name: node-exporter
+              hostPath:
+                   path: /var/lib/docker/node-exporter
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: node-exporter
+  namespace: kube-system
+  labels:
+    app: node-exporter
+spec:
+  selector:
+     app: node-exporter
+  type: NodePort
+  ports:
+   - name: http
+     port: 9100
+     nodePort: 32257
+     protocol: TCP

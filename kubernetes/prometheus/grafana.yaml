@@ -1,0 +1,75 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+   name: granafa
+   namespace: kube-system
+   labels:
+      app: granafa
+spec:
+   replicas: 1
+   selector:
+      matchLabels:
+         app: granafa
+   template:
+      metadata:
+         labels:
+              app: granafa
+      spec:
+         nodeSelector:
+           monitor: granafa
+         containers:
+            - name: granafa
+              image: grafana/grafana:7.0.0
+              imagePullPolicy: IfNotPresent
+              command: ["grafana-cli","plugins","install","btplc-status-dot-panel"]
+              command: ["grafana-cli","plugins","install","kubernetes-app"]
+              command: ["grafana-server","restart"]
+              ports:
+               - containerPort: 3000
+                 name: http
+                 protocol: TCP
+              resources:
+                 limits:
+                   cpu: 300m
+                   memory: 200Mi
+                 requests:
+                   cpu: 100m
+                   memory: 200Mi
+              env:
+               # The following env variables set up basic auth twith the default admin user and admin password.
+              - name: GF_AUTH_BASIC_ENABLED
+                value: "true"
+              - name: GF_AUTH_ANONYMOUS_ENABLED
+                value: "false"
+               # - name: GF_AUTH_ANONYMOUS_ORG_ROLE
+               #   value: Admin
+               # does not really work, because of template variables in exported dashboards:
+               # - name: GF_DASHBOARDS_JSON_ENABLED
+               #   value: "true"
+              volumeMounts:
+                 - name: varlog
+                   mountPath: /var/log
+         volumes:
+         - name: varlog
+           emptyDir: {}
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: granafa
+  namespace: kube-system
+  labels:
+    app: granafa
+spec:
+  selector:
+     app: granafa
+  type: NodePort
+  ports:
+   - name: http
+     port: 3000
+     nodePort: 32259
+     protocol: TCP
+           
+
