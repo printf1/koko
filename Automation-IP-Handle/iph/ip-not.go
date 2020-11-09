@@ -65,14 +65,14 @@ func Get_IP(ip chan<- string, co sync.Mutex, l sync.Cond)  {
 func Insert(ip <-chan string, co sync.Mutex, l sync.Cond, name string, age string) {	
 	handle.Get_DB()
 	conn, err = sql.Open("mysql", fmt.Sprintf("%s:%s@(%s:%s)/%s?charset=utf8mb4", user, passwd, host, port, db))
-    if err != nil {
+        if err != nil {
 	    fmt.Printf("连接%s数据库失败", host)
 	    log.Fatal(err)
 	    return
 	}
 	defer conn.Close()
 	fmt.Println("连接成功")
-    conn.SetMaxIdleConns(10)
+        conn.SetMaxIdleConns(10)
 	conn.SetConnMaxLifetime(10 * time.Minute)
 	conn.SetMaxOpenConns(100)
 	for {
