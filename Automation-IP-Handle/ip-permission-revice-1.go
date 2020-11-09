@@ -34,9 +34,9 @@ func Get_DB()  {
 	if err != nil {
 		fmt.Println("配置文件加载出错")
 	}
-	host = file.Section("DATABASE").Key("host").MustString("139.196.47.104")
-	user = file.Section("DATABASE").Key("user").MustString("root")
-	passwd = file.Section("DATABASE").Key("passwd").MustString("123456")
+	host = file.Section("DATABASE").Key("host").MustString("ip")
+	user = file.Section("DATABASE").Key("user").MustString("user")
+	passwd = file.Section("DATABASE").Key("passwd").MustString("passwd")
 	port = file.Section("DATABASE").Key("port").MustString("3306")
 	db = file.Section("DATABASE").Key("database").MustString("mysql")
 	//fmt.Println(host, user, passwd, port, db)
@@ -44,14 +44,14 @@ func Get_DB()  {
 
 func Connect()  {
 	conn, err = sql.Open("mysql", fmt.Sprintf("%s:%s@(%s:%s)/%s?charset=utf8mb4", user, passwd, host, port, db))
-    if err != nil {
+        if err != nil {
 		fmt.Printf("连接%s数据库失败", host)
 		log.Fatal(err)
 		return
 	}
 	defer conn.Close()
 	fmt.Println("连接成功")
-    conn.SetMaxIdleConns(10)
+        conn.SetMaxIdleConns(10)
 	conn.SetConnMaxLifetime(10 * time.Minute)
 	conn.SetMaxOpenConns(100)
 	go Get_IP()
