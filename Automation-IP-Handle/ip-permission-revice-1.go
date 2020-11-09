@@ -2,7 +2,7 @@ package main
 
 import ( 
 	"gopkg.in/ini.v1"
-    "database/sql"
+        "database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"log"
