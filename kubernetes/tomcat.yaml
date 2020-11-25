@@ -1,0 +1,16 @@
+#版本号
+Version: apps/v1
+#对象类型
+kind: Deployment
+metadata: 
+   name: koko_one-deployment
+spec:
+  selector:
+     matchLables:
+       app: koko_one-cluster
+  
+  replicas: 1
+  template:
+     metadata:
+       labels:
+        app: koko_one-cluster

@@ -1,0 +1,17 @@
+
+COLUMN_NAME
+------------------------------
+ユーザID
+ユーザ名
+職責ID
+職責名
+システム登録日
+使用終了日
+更新日
+
+7行が選択されました。
+
+  1  SELECT  column_name
+  2  FROM  all_tab_columns
+  3  WHERE  table_name = '登録職責_20190529'
+  4* ORDER BY  column_id

@@ -1,0 +1,29 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+   name: process-job
+   labels:
+     jobgroup: jobexample
+spec: 
+   parallelism: 2
+   completions: 4
+   backoffLimit: 4
+   template:
+     metadata:
+        name: jobexample
+        labels: 
+           jobgroup: jobexample
+     spec:
+        tolerations: 
+         - key: node-role.kubernetes.io/master
+           operator: Exists
+           effect: NoSchedule
+        containers:
+         - name: c
+           image: busybox:latest
+           command: 
+             - /bin/sh
+             - -c
+             - echo processing item && sleep 5
+        restartPolicy: Never
+        

@@ -1,0 +1,557 @@
+2020-02-20 18:30:50 E S001S002_CommonExec_Sqlfile.sh SQL file s001_select_normal.sql doesn't exist!
+2020-02-20 19:29:19 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-21 15:49:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-21 15:49:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-21 15:59:00 E S001S002_CommonExec_Sqlfile.sh SQL file s001_select_normal.sql doesn't exist!
+2020-02-21 15:59:56 E S001S002_CommonExec_Sqlfile.sh SQL file s001_select_normal.sql doesn't exist!
+2020-02-24 17:34:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-24 17:34:17 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-25 12:33:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-25 12:33:12 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-25 12:52:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-25 12:52:12 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-26 17:38:16 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-26 17:38:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-26 18:34:16 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-26 18:34:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-26 19:21:27 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-26 19:21:27 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!
+2020-02-26 19:26:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-26 19:26:43 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-26 19:28:57 I S001S002_CommonExec_Sqlfile.sh sql file is 7348_s001_select_normal.sql
+2020-02-26 19:28:57 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 11:53:59 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 11:53:59 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 11:54:10 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:01:02 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:01:02 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:01:12 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:36:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:36:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:36:44 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:39:58 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:39:58 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:40:09 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:41:39 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:41:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:41:49 I S001S002_CommonExec_Sqlfile.sh /workhome/itcc/work/shell
+2020-02-27 12:41:50 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:44:16 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:44:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:44:26 I S001S002_CommonExec_Sqlfile.sh /workhome/itcc/work/shell
+2020-02-27 12:46:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:46:53 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:47:04 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:48:50 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 12:48:50 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!aaaaaaa
+2020-02-27 12:49:00 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfer was successful!cccccccc
+2020-02-27 12:55:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 16:16:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 16:19:47 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 16:22:46 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 17:37:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 17:40:51 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 18:27:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 18:27:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:10:01 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:10:12 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:15:07 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:15:17 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:18:52 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:19:02 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:22:13 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:22:23 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:29:07 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:29:17 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:40:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:40:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:50:21 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:50:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 19:54:06 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 19:54:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 20:02:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7349_s001_select_normal.sql
+2020-02-27 20:02:30 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 20:25:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7358_s001_select_normal.sql
+2020-02-27 20:25:23 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 20:25:30 I S001S002_CommonExec_Sqlfile.sh sql file is 7358_s001_select_normal.sql
+2020-02-27 20:25:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 20:31:13 I S001S002_CommonExec_Sqlfile.sh sql file is 7359_s001_select_normal.sql
+2020-02-27 20:31:23 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 20:31:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7359_s001_select_normal.sql
+2020-02-27 20:31:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-27 21:00:21 I S001S002_CommonExec_Sqlfile.sh sql file is 7358_s001_select_normal.sql
+2020-02-27 21:00:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 10:30:05 I S001S002_CommonExec_Sqlfile.sh sql file is 7361_s001_select_normal.sql
+2020-02-28 10:30:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 10:34:32 I S001S002_CommonExec_Sqlfile.sh sql file is 7361_s001_select_normal.sql
+2020-02-28 10:34:43 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 10:37:50 I S001S002_CommonExec_Sqlfile.sh sql file is 7362_s001_select_normal.sql
+2020-02-28 10:38:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 10:38:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7362_s001_select_normal.sql
+2020-02-28 10:38:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 10:59:52 I S001S002_CommonExec_Sqlfile.sh sql file is 7363_s001_select_normal.sql
+2020-02-28 11:00:02 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 11:00:18 I S001S002_CommonExec_Sqlfile.sh sql file is 7363_s001_select_normal.sql
+2020-02-28 11:00:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 16:40:03 I S001S002_CommonExec_Sqlfile.sh sql file is 7363_s001_select_normal.sql
+2020-02-28 16:40:14 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 16:47:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7364_s001_select_normal.sql
+2020-02-28 16:47:28 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 17:08:16 I S001S002_CommonExec_Sqlfile.sh sql file is 7364_s001_select_normal.sql
+2020-02-28 17:08:27 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 17:55:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7365_s001_select_normal.sql
+2020-02-28 17:55:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 18:06:18 I S001S002_CommonExec_Sqlfile.sh sql file is 7365_s001_select_normal.sql
+2020-02-28 18:06:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 18:27:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7366_s001_select_normal.sql
+2020-02-28 18:27:48 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:02:54 I S001S002_CommonExec_Sqlfile.sh sql file is 7367_s001_select_normal.sql
+2020-02-28 19:03:05 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:24:30 I S001S002_CommonExec_Sqlfile.sh sql file is 7367_s001_select_normal.sql
+2020-02-28 19:24:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:35:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7366_s001_select_normal.sql
+2020-02-28 19:35:30 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:39:31 I S001S002_CommonExec_Sqlfile.sh sql file is 7366_s001_select_normal.sql
+2020-02-28 19:39:41 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:42:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7368_s001_select_normal.sql
+2020-02-28 19:42:54 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 19:43:23 I S001S002_CommonExec_Sqlfile.sh sql file is 7368_s001_select_normal.sql
+2020-02-28 19:43:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-02-28 20:28:46 I S001S002_CommonExec_Sqlfile.sh sql file is 7369_s001_select_normal.sql
+2020-02-28 20:28:57 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 10:12:39 I S001S002_CommonExec_Sqlfile.sh sql file is 7370_s001_select_normal.sql
+2020-03-02 10:12:50 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 10:13:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7370_s001_select_normal.sql
+2020-03-02 10:13:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 10:32:52 I S001S002_CommonExec_Sqlfile.sh sql file is 7370_s001_select_normal.sql
+2020-03-02 10:33:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 10:39:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7370_s001_select_normal.sql
+2020-03-02 10:39:22 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 10:59:42 I S001S002_CommonExec_Sqlfile.sh sql file is 7371_s001_select_normal.sql
+2020-03-02 10:59:52 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 11:10:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7372_s001_select_normal.sql
+2020-03-02 11:10:54 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 11:22:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7373_s001_select_normal.sql
+2020-03-02 11:22:55 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 11:30:45 I S001S002_CommonExec_Sqlfile.sh sql file is 7374_s001_select_normal.sql
+2020-03-02 11:30:56 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 13:41:56 I S001S002_CommonExec_Sqlfile.sh sql file is 7375_s001_select_normal.sql
+2020-03-02 13:42:06 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 13:54:57 I S001S002_CommonExec_Sqlfile.sh sql file is 7376_s001_select_normal.sql
+2020-03-02 13:55:07 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:02:58 I S001S002_CommonExec_Sqlfile.sh sql file is 7377_s001_select_normal.sql
+2020-03-02 14:03:08 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:07:58 I S001S002_CommonExec_Sqlfile.sh sql file is 7378_s001_select_normal.sql
+2020-03-02 14:08:08 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:14:59 I S001S002_CommonExec_Sqlfile.sh sql file is 7379_s001_select_normal.sql
+2020-03-02 14:15:09 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:20:59 I S001S002_CommonExec_Sqlfile.sh sql file is 7380_s001_select_normal.sql
+2020-03-02 14:21:09 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:24:00 I S001S002_CommonExec_Sqlfile.sh sql file is 7381_s001_select_normal.sql
+2020-03-02 14:24:10 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:40:31 I S001S002_CommonExec_Sqlfile.sh sql file is 7381_s001_select_normal.sql
+2020-03-02 14:40:41 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-02 14:42:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7381_s001_select_normal.sql
+2020-03-02 14:42:19 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-03 16:31:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7385_s001_select_normal.sql
+2020-03-03 16:32:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-03 16:39:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7385_s001_select_normal.sql
+2020-03-03 16:39:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-03 17:13:55 I S001S002_CommonExec_Sqlfile.sh sql file is 7386_s001_select_normal.sql
+2020-03-03 17:14:06 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-03 19:15:05 I S001S002_CommonExec_Sqlfile.sh sql file is 7389_s001_select_normal.sql
+2020-03-03 19:15:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-03 19:20:06 I S001S002_CommonExec_Sqlfile.sh sql file is 7390_s001_select_normal.sql
+2020-03-03 19:20:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 10:47:55 I S001S002_CommonExec_Sqlfile.sh sql file is 7395_s001_select_normal.sql
+2020-03-04 10:48:06 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 10:59:56 I S001S002_CommonExec_Sqlfile.sh sql file is 7396_s001_select_normal.sql
+2020-03-04 11:00:06 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 14:21:11 I S001S002_CommonExec_Sqlfile.sh sql file is 7398_s001_select_normal.sql
+2020-03-04 14:21:22 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 19:42:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7400_s001_select_normal.sql
+2020-03-04 19:42:44 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 19:50:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7401_s001_select_normal.sql
+2020-03-04 19:50:45 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 20:13:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7402_s001_select_normal.sql
+2020-03-04 20:13:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-04 20:19:37 I S001S002_CommonExec_Sqlfile.sh sql file is 7403_s001_select_normal.sql
+2020-03-04 20:19:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 10:50:39 I S001S002_CommonExec_Sqlfile.sh sql file is 7404_s001_select_normal.sql
+2020-03-05 10:50:49 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 10:58:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7405_s001_select_normal.sql
+2020-03-05 10:58:48 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:13:01 I S001S002_CommonExec_Sqlfile.sh sql file is 7406_s001_select_normal.sql
+2020-03-05 11:13:11 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:20:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7407_s001_select_normal.sql
+2020-03-05 11:20:50 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:25:39 I S001S002_CommonExec_Sqlfile.sh sql file is 7408_s001_select_normal.sql
+2020-03-05 11:25:49 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:29:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7409_s001_select_normal.sql
+2020-03-05 11:29:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:40:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7410_s001_select_normal.sql
+2020-03-05 11:40:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:47:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7411_s001_select_normal.sql
+2020-03-05 11:47:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 11:59:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7413_s001_select_normal.sql
+2020-03-05 11:59:53 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 12:04:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7414_s001_select_normal.sql
+2020-03-05 12:04:53 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 12:14:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7415_s001_select_normal.sql
+2020-03-05 12:14:54 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 12:25:45 I S001S002_CommonExec_Sqlfile.sh sql file is 7416_s001_select_normal.sql
+2020-03-05 12:25:55 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 12:33:45 I S001S002_CommonExec_Sqlfile.sh sql file is 7417_s001_select_normal.sql
+2020-03-05 12:33:56 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 13:02:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7418_s001_select_normal.sql
+2020-03-05 13:02:44 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 13:06:49 I S001S002_CommonExec_Sqlfile.sh sql file is 7419_s001_select_normal.sql
+2020-03-05 13:06:59 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 14:26:54 I S001S002_CommonExec_Sqlfile.sh sql file is 7420_s001_select_normal.sql
+2020-03-05 14:27:05 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 14:36:55 I S001S002_CommonExec_Sqlfile.sh sql file is 7421_s001_select_normal.sql
+2020-03-05 14:37:06 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 17:29:08 I S001S002_CommonExec_Sqlfile.sh sql file is 7422_s001_select_normal.sql
+2020-03-05 17:29:19 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 18:23:05 I S001S002_CommonExec_Sqlfile.sh sql file is 7423_s001_select_normal.sql
+2020-03-05 18:23:15 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 18:49:04 I S001S002_CommonExec_Sqlfile.sh sql file is 7424_s001_select_normal.sql
+2020-03-05 18:49:14 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 19:11:06 I S001S002_CommonExec_Sqlfile.sh sql file is 7425_s001_select_normal.sql
+2020-03-05 19:11:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 19:22:07 I S001S002_CommonExec_Sqlfile.sh sql file is 7426_s001_select_normal.sql
+2020-03-05 19:22:17 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-05 19:33:08 I S001S002_CommonExec_Sqlfile.sh sql file is 7427_s001_select_normal.sql
+2020-03-05 19:33:18 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 11:12:15 I S001S002_CommonExec_Sqlfile.sh sql file is 7379_s001_select_normal.sql
+2020-03-09 11:12:26 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 11:38:00 I S001S002_CommonExec_Sqlfile.sh sql file is 7433_s001_select_normal.sql
+2020-03-09 11:38:10 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 11:41:58 I S001S002_CommonExec_Sqlfile.sh sql file is 7434_s001_select_normal.sql
+2020-03-09 11:42:08 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 11:53:01 I S001S002_CommonExec_Sqlfile.sh sql file is 7435_s001_select_normal.sql
+2020-03-09 11:53:12 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 12:22:05 I S001S002_CommonExec_Sqlfile.sh sql file is 7436_s001_select_normal.sql
+2020-03-09 12:22:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 13:43:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7437_s001_select_normal.sql
+2020-03-09 13:43:20 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 13:49:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7438_s001_select_normal.sql
+2020-03-09 13:49:20 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 13:55:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7439_s001_select_normal.sql
+2020-03-09 13:55:19 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 14:02:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7440_s001_select_normal.sql
+2020-03-09 14:02:20 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 14:30:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7442_s001_select_normal.sql
+2020-03-09 14:30:22 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 14:37:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7443_s001_select_normal.sql
+2020-03-09 14:37:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 17:33:27 I S001S002_CommonExec_Sqlfile.sh sql file is 7445_s001_select_normal.sql
+2020-03-09 17:33:37 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 18:07:28 I S001S002_CommonExec_Sqlfile.sh sql file is 7446_s001_select_normal.sql
+2020-03-09 18:07:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 18:11:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7447_s001_select_normal.sql
+2020-03-09 18:11:44 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 18:15:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7448_s001_select_normal.sql
+2020-03-09 18:15:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 19:02:56 I S001S002_CommonExec_Sqlfile.sh sql file is 7449_s001_select_normal.sql
+2020-03-09 19:03:07 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-09 19:13:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7450_s001_select_normal.sql
+2020-03-09 19:13:54 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 10:21:28 I S001S002_CommonExec_Sqlfile.sh sql file is 7451_s001_select_normal.sql
+2020-03-10 10:21:38 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 11:08:02 I S001S002_CommonExec_Sqlfile.sh sql file is 7452_s001_select_normal.sql
+2020-03-10 11:08:13 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 15:26:06 I S001S002_CommonExec_Sqlfile.sh sql file is 7455_s001_select_normal.sql
+2020-03-10 15:26:16 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 17:22:08 I S001S002_CommonExec_Sqlfile.sh sql file is 7456_s001_select_normal.sql
+2020-03-10 17:22:18 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 17:49:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7458_s001_select_normal.sql
+2020-03-10 17:49:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 17:50:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7459_s001_select_normal.sql
+2020-03-10 17:50:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 17:52:11 I S001S002_CommonExec_Sqlfile.sh sql file is 7460_s001_select_normal.sql
+2020-03-10 17:52:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 17:55:11 I S001S002_CommonExec_Sqlfile.sh sql file is 7461_s001_select_normal.sql
+2020-03-10 17:55:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 18:13:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7462_s001_select_normal.sql
+2020-03-10 18:13:23 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 18:15:14 I S001S002_CommonExec_Sqlfile.sh sql file is 7464_s001_select_normal.sql
+2020-03-10 18:15:14 I S001S002_CommonExec_Sqlfile.sh sql file is 7463_s001_select_normal.sql
+2020-03-10 18:15:14 I S001S002_CommonExec_Sqlfile.sh sql file is 7465_s001_select_normal.sql
+2020-03-10 18:15:24 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 18:15:24 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 18:15:24 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-10 19:23:19 I S001S002_CommonExec_Sqlfile.sh sql file is 7466_s001_select_normal.sql
+2020-03-10 19:23:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-11 18:33:39 I S001S002_CommonExec_Sqlfile.sh sql file is 7470_s001_select_normal.sql
+2020-03-11 18:33:49 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-11 18:58:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7471_s001_select_normal.sql
+2020-03-11 18:58:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-11 19:08:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7472_s001_select_normal.sql
+2020-03-11 19:08:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-11 19:50:16 I S001S002_CommonExec_Sqlfile.sh sql file is 7473_s001_select_normal.sql
+2020-03-11 19:50:27 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 12:16:23 I S001S002_CommonExec_Sqlfile.sh sql file is 7487_s001_select_normal.sql
+2020-03-13 12:16:33 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 12:35:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7489_s001_select_normal.sql
+2020-03-13 12:35:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 12:49:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7490_s001_select_normal.sql
+2020-03-13 12:49:36 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 13:21:28 I S001S002_CommonExec_Sqlfile.sh sql file is 7491_s001_select_normal.sql
+2020-03-13 13:21:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 13:28:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7492_s001_select_normal.sql
+2020-03-13 13:28:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 13:41:30 I S001S002_CommonExec_Sqlfile.sh sql file is 7493_s001_select_normal.sql
+2020-03-13 13:41:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 13:50:31 I S001S002_CommonExec_Sqlfile.sh sql file is 7494_s001_select_normal.sql
+2020-03-13 13:50:42 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 13:56:32 I S001S002_CommonExec_Sqlfile.sh sql file is 7495_s001_select_normal.sql
+2020-03-13 13:56:42 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 14:03:33 I S001S002_CommonExec_Sqlfile.sh sql file is 7498_s001_select_normal.sql
+2020-03-13 14:03:43 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 14:19:34 I S001S002_CommonExec_Sqlfile.sh sql file is 7500_s001_select_normal.sql
+2020-03-13 14:19:45 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 14:35:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7501_s001_select_normal.sql
+2020-03-13 14:35:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 14:51:47 I S001S002_CommonExec_Sqlfile.sh sql file is 7502_s001_select_normal.sql
+2020-03-13 14:51:58 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 15:30:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7504_s001_select_normal.sql
+2020-03-13 15:30:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 15:41:42 I S001S002_CommonExec_Sqlfile.sh sql file is 7505_s001_select_normal.sql
+2020-03-13 15:41:52 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 15:57:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7506_s001_select_normal.sql
+2020-03-13 15:57:54 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 16:55:49 I S001S002_CommonExec_Sqlfile.sh sql file is 7512_s001_select_normal.sql
+2020-03-13 16:56:00 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-13 17:03:50 I S001S002_CommonExec_Sqlfile.sh sql file is 7515_s001_select_normal.sql
+2020-03-13 17:04:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-16 16:45:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7553_s001_select_normal.sql
+2020-03-16 16:45:46 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-16 17:12:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7555_s001_select_normal.sql
+2020-03-16 17:12:48 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-16 17:40:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7556_s001_select_normal.sql
+2020-03-16 17:40:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-17 11:11:52 I S001S002_CommonExec_Sqlfile.sh sql file is 7557_s001_select_normal.sql
+2020-03-17 11:12:02 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-17 11:33:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7558_s001_select_normal.sql
+2020-03-17 11:34:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-17 11:46:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7559_s001_select_normal.sql
+2020-03-17 11:47:04 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-17 12:00:54 I S001S002_CommonExec_Sqlfile.sh sql file is 7560_s001_select_normal.sql
+2020-03-17 12:01:05 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 12:08:51 I S001S002_CommonExec_Sqlfile.sh sql file is 7583_s001_select_normal.sql
+2020-03-18 12:09:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 12:28:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7584_s001_select_normal.sql
+2020-03-18 12:29:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 12:35:54 I S001S002_CommonExec_Sqlfile.sh sql file is 7586_s001_select_normal.sql
+2020-03-18 12:36:04 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 12:37:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7587_s001_select_normal.sql
+2020-03-18 12:38:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 12:47:54 I S001S002_CommonExec_Sqlfile.sh sql file is 7589_s001_select_normal.sql
+2020-03-18 12:48:04 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 17:36:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7593_s001_select_normal.sql
+2020-03-18 17:36:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-18 17:41:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7594_s001_select_normal.sql
+2020-03-18 17:41:33 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 14:58:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7595_s001_select_normal.sql
+2020-03-19 14:58:27 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 15:11:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7596_s001_select_normal.sql
+2020-03-19 15:11:28 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 15:22:18 I S001S002_CommonExec_Sqlfile.sh sql file is 7597_s001_select_normal.sql
+2020-03-19 15:22:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 15:29:19 I S001S002_CommonExec_Sqlfile.sh sql file is 7598_s001_select_normal.sql
+2020-03-19 15:29:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 15:37:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7599_s001_select_normal.sql
+2020-03-19 15:37:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 15:53:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7600_s001_select_normal.sql
+2020-03-19 15:53:33 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 16:07:24 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:07:24 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:10:12 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:10:13 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:27:22 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:27:23 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:28:26 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 16:28:26 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:24:30 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:24:30 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:28:39 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:28:39 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:58:32 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 17:58:33 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/cdcusers/cdc0736/dummy.sql doesn't exist!
+2020-03-19 18:34:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7606_s002_update.sql
+2020-03-19 18:34:46 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 18:40:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7607_s002_update.sql
+2020-03-19 18:40:46 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-19 18:46:37 I S001S002_CommonExec_Sqlfile.sh sql file is 7608_s002_update.sql
+2020-03-19 18:46:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-20 11:38:54 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-20 11:38:54 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-20 12:51:00 I S001S002_CommonExec_Sqlfile.sh sql file is 7618_s001_select_ora_error.sql
+2020-03-20 12:51:10 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-20 12:56:01 I S001S002_CommonExec_Sqlfile.sh sql file is 7619_s001_select_ora_error.sql
+2020-03-20 12:56:11 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:05:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7621_s002_update.sql
+2020-03-23 11:05:20 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:14:09 I S001S002_CommonExec_Sqlfile.sh sql file is 7623_s002_update.sql
+2020-03-23 11:14:19 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:18:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7624_s002_update.sql
+2020-03-23 11:18:21 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:23:10 I S001S002_CommonExec_Sqlfile.sh sql file is 7625_s002_update.sql
+2020-03-23 11:23:20 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:51:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7626_s002_update.sql
+2020-03-23 11:51:23 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 11:52:12 I S001S002_CommonExec_Sqlfile.sh sql file is 7627_s001_select_normal.sql
+2020-03-23 11:52:22 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 12:02:13 I S001S002_CommonExec_Sqlfile.sh sql file is 7628_s002_update.sql
+2020-03-23 12:02:24 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 13:46:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7629_s002_update.sql
+2020-03-23 13:46:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 13:50:23 I S001S002_CommonExec_Sqlfile.sh sql file is 7630_s001_select_normal.sql
+2020-03-23 13:50:33 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 13:55:23 I S001S002_CommonExec_Sqlfile.sh sql file is 7632_s001_select_normal.sql
+2020-03-23 13:55:33 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 13:58:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7637_s002_update.sql
+2020-03-23 13:58:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 14:05:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7638_s001_select_normal.sql
+2020-03-23 14:05:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 14:11:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7639_s001_select_normal.sql
+2020-03-23 14:11:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 14:47:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7640_s002_update.sql
+2020-03-23 14:47:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 14:51:28 I S001S002_CommonExec_Sqlfile.sh sql file is 7641_s001_select_normal.sql
+2020-03-23 14:51:38 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 14:58:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7642_s001_select_normal.sql
+2020-03-23 14:58:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 15:07:30 I S001S002_CommonExec_Sqlfile.sh sql file is 7643_s001_select_normal.sql
+2020-03-23 15:07:41 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 15:11:31 I S001S002_CommonExec_Sqlfile.sh sql file is 7644_s001_select_normal.sql
+2020-03-23 15:11:41 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 15:14:31 I S001S002_CommonExec_Sqlfile.sh sql file is 7645_s001_select_normal.sql
+2020-03-23 15:14:41 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 15:36:33 I S001S002_CommonExec_Sqlfile.sh sql file is 7647_s001_select_normal.sql
+2020-03-23 15:36:43 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 16:05:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7648_s002_update.sql
+2020-03-23 16:05:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 16:08:36 I S001S002_CommonExec_Sqlfile.sh sql file is 7649_s001_select_normal.sql
+2020-03-23 16:08:46 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 16:39:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7650_s002_update.sql
+2020-03-23 16:39:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 16:43:40 I S001S002_CommonExec_Sqlfile.sh sql file is 7651_s001_select_normal.sql
+2020-03-23 16:43:50 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 16:47:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7652_s002_update.sql
+2020-03-23 16:47:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 17:09:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7653_s002_update.sql
+2020-03-23 17:09:53 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 17:19:43 I S001S002_CommonExec_Sqlfile.sh sql file is 7654_s001_select_normal.sql
+2020-03-23 17:19:53 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 17:37:44 I S001S002_CommonExec_Sqlfile.sh sql file is 7655_s001_select_normal.sql
+2020-03-23 17:37:55 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 17:55:47 I S001S002_CommonExec_Sqlfile.sh sql file is 7656_s002_update.sql
+2020-03-23 17:55:57 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 18:07:47 I S001S002_CommonExec_Sqlfile.sh sql file is 7662_s001002_selectupdate_longrun.sql
+2020-03-23 18:07:58 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 18:29:51 I S001S002_CommonExec_Sqlfile.sh sql file is 7663_s002_update.sql
+2020-03-23 18:30:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 18:36:51 I S001S002_CommonExec_Sqlfile.sh sql file is 7664_s001_select_normal.sql
+2020-03-23 18:37:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 18:55:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7665_s002_update.sql
+2020-03-23 18:56:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-23 19:03:53 I S001S002_CommonExec_Sqlfile.sh sql file is 7666_s001_select_normal.sql
+2020-03-23 19:04:03 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 10:35:14 I S001S002_CommonExec_Sqlfile.sh sql file is 7667_s002_update.sql
+2020-03-24 10:35:24 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 10:55:15 I S001S002_CommonExec_Sqlfile.sh sql file is 7668_s002_update.sql
+2020-03-24 10:55:25 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 11:12:15 I S001S002_CommonExec_Sqlfile.sh sql file is 7671_s001_select_normal.sql
+2020-03-24 11:12:26 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 11:32:18 I S001S002_CommonExec_Sqlfile.sh sql file is 7673_s002_update.sql
+2020-03-24 11:32:28 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 11:36:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7672_s001_select_normal.sql
+2020-03-24 11:36:28 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 11:50:19 I S001S002_CommonExec_Sqlfile.sh sql file is 7674_s001_select_normal.sql
+2020-03-24 11:50:29 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 11:51:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7675_s002_update.sql
+2020-03-24 11:51:30 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 12:08:20 I S001S002_CommonExec_Sqlfile.sh sql file is 7676_s001_select_normal.sql
+2020-03-24 12:08:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 12:11:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7677_s002_update.sql
+2020-03-24 12:11:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 12:19:21 I S001S002_CommonExec_Sqlfile.sh sql file is 7678_s001_select_normal.sql
+2020-03-24 12:19:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 12:28:25 I S001S002_CommonExec_Sqlfile.sh sql file is 7679_s002_update.sql
+2020-03-24 12:28:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 14:46:35 I S001S002_CommonExec_Sqlfile.sh sql file is 7680_s001_select_normal.sql
+2020-03-24 14:46:45 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 15:11:37 I S001S002_CommonExec_Sqlfile.sh sql file is 7681_s001_select_normal.sql
+2020-03-24 15:11:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 15:17:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7682_s002_update.sql
+2020-03-24 15:17:48 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 15:51:41 I S001S002_CommonExec_Sqlfile.sh sql file is 7683_s002_update.sql
+2020-03-24 15:51:51 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 17:54:50 I S001S002_CommonExec_Sqlfile.sh sql file is 7686_s001_select_ora_error.sql
+2020-03-24 17:55:01 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 18:09:52 I S001S002_CommonExec_Sqlfile.sh sql file is 7687_s001_select_ora_error.sql
+2020-03-24 18:10:02 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 18:50:56 I S001S002_CommonExec_Sqlfile.sh sql file is 7690_s002_update.sql
+2020-03-24 18:51:07 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 19:19:59 I S001S002_CommonExec_Sqlfile.sh sql file is 7691_s002_update.sql
+2020-03-24 19:20:09 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 19:43:01 I S001S002_CommonExec_Sqlfile.sh sql file is 7692_s002_update.sql
+2020-03-24 19:43:11 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 19:59:02 I S001S002_CommonExec_Sqlfile.sh sql file is 7693_s002_update.sql
+2020-03-24 19:59:13 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-24 20:23:05 I S001S002_CommonExec_Sqlfile.sh sql file is 7694_s002_update.sql
+2020-03-24 20:23:15 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 10:45:03 I S001S002_CommonExec_Sqlfile.sh sql file is 7695_s002_update.sql
+2020-03-25 10:45:13 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 11:05:03 I S001S002_CommonExec_Sqlfile.sh sql file is 7696_s001_select_ora_error.sql
+2020-03-25 11:05:13 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 11:09:04 I S001S002_CommonExec_Sqlfile.sh sql file is 7697_s002_update.sql
+2020-03-25 11:09:14 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 11:19:04 I S001S002_CommonExec_Sqlfile.sh sql file is 7698_s001_select_ora_error.sql
+2020-03-25 11:19:14 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 11:42:07 I S001S002_CommonExec_Sqlfile.sh sql file is 7699_s001_select_normal.sql
+2020-03-25 11:42:17 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 12:06:08 I S001S002_CommonExec_Sqlfile.sh sql file is 7700_s001_select_normal.sql
+2020-03-25 12:06:19 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 13:39:17 I S001S002_CommonExec_Sqlfile.sh sql file is 7701_s001_select_normal.sql
+2020-03-25 13:39:27 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 14:24:21 I S001S002_CommonExec_Sqlfile.sh sql file is 7704_s001_select_normal.sql
+2020-03-25 14:24:31 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 14:42:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7705_s001_select_normal.sql
+2020-03-25 14:42:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 15:06:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7707_s001_select_normal.sql
+2020-03-25 15:06:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-25 16:00:29 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 16:00:30 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 18:31:43 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 18:31:43 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:02:46 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:02:46 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:18:47 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:18:47 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:20:47 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:20:47 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:29:48 E S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-25 19:29:48 I S001S002_CommonExec_Sqlfile.sh SQL file /workhome/home/ort/acdc01/blankblank.sql doesn't exist!
+2020-03-26 10:42:22 I S001S002_CommonExec_Sqlfile.sh sql file is 7716_s001_select_normal.sql
+2020-03-26 10:42:32 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 11:07:23 I S001S002_CommonExec_Sqlfile.sh sql file is 7717_s001_select_normal.sql
+2020-03-26 11:07:34 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 11:17:24 I S001S002_CommonExec_Sqlfile.sh sql file is 7719_s001_select_normal.sql
+2020-03-26 11:17:35 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 12:02:28 I S001S002_CommonExec_Sqlfile.sh sql file is 7720_s001_select_normal.sql
+2020-03-26 12:02:38 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 12:13:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7721_s001_select_ora_error.sql
+2020-03-26 12:13:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 12:16:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7722_s001_select_ora_error.sql
+2020-03-26 12:16:39 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 12:19:29 I S001S002_CommonExec_Sqlfile.sh sql file is 7723_s001_select_ora_error.sql
+2020-03-26 12:19:40 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 13:39:37 I S001S002_CommonExec_Sqlfile.sh sql file is 7725_s002_update.sql
+2020-03-26 13:39:47 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 13:49:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7726_s002_update_ora_error.sql
+2020-03-26 13:49:48 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!
+2020-03-26 13:51:38 I S001S002_CommonExec_Sqlfile.sh sql file is 7727_s002_update_ora_error.sql
+2020-03-26 13:51:49 I S001S002_CommonExec_Sqlfile.sh Under the q environment,SQL file transfeer was successful!

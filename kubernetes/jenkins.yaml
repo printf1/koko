@@ -1,0 +1,126 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata: 
+  name: jenkins
+  labels:
+     app: jenkins
+
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: jenkins
+  labels:
+    app: jenkins
+    namespace: default
+subjects:								
+  - kind: ServiceAccount
+    name: jenkins
+    namespace: default
+roleRef:
+    kind: ClusterRole
+    name: cluster-admin
+    apiGroup: rbac.authorization.k8s.io
+
+---
+apiVersion: v1
+kind: PersistentVolume 
+metadata:
+  name: jenkins
+  labels:
+    app: jenkins
+spec: 
+  capacity:
+    storage: 5Gi
+  accessModes:
+  - ReadWriteMany
+  storageClassName: nfs
+  nfs:
+    server: 139.224.65.35
+    path: "/nfs/data/jenkins"
+
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: jenkins
+  labels: 
+    app: jenkins
+spec:
+  accessModes:
+  - ReadWriteMany
+  storageClassName: nfs
+  resources:
+    requests:
+      storage: 5Gi
+      
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jenkins
+  labels:
+    app: jenkins
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jenkins
+  template:
+    metadata:
+      name: jenkins
+      labels:
+        app: jenkins
+    spec:
+      serviceAccountName: jenkins
+      affinity: {}
+      containers:
+      - name: jenkins
+        image: jenkins/jenkins:latest   
+        imagePullPolicy: IfNotPresent
+        volumeMounts:
+        - name: jenkins-stor 
+          mountPath: /home/jenkins
+          readOnly: false
+        ports:
+        - containerPort: 80
+      volumes:
+      - name: jenkins-stor
+        persistentVolumeClaim:
+          claimName: jenkins 
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: jenkins
+  labels:
+    app: jenkins
+spec:
+  selector:
+     app: jenkins
+  type: NodePort
+  ports:
+   - name: jenkins
+     port: 80
+     targetPort: 80
+     nodePort: 32256
+     protocol: TCP
+
+--- 
+apiVersion: apps/v1
+kind: Ingress
+metadata:
+  name: jenkins
+  labels: 
+    app: jenkins
+spec
+  rules:
+  - host: 139.196.47.104
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: jenkins
+          servicePort: 80
+
