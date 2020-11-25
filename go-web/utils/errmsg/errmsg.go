@@ -1,8 +1,9 @@
 package errmsg
 
 const (
-	SUCCESS = 200
-	ERROR   = 500
+	SUCCESS        = 200
+	REVISE_SUCCESS = 201
+	ERROR          = 500
 	//User相关code(300~499)
 	USER_NOT_EXIST       = 300
 	PASSWORD_WRONG       = 301
@@ -20,6 +21,7 @@ const (
 var codeMsg = map[int]string{
 	SUCCESS:              "登录成功，Login Successful",
 	ERROR:                "登录失败，Login failed",
+	REVISE_SUCCESS:       "密码重置成功",
 	USER_NOT_EXIST:       "用户名不存在，请重新输入",
 	PASSWORD_WRONG:       "密码错误，请重新输入",
 	USER_EXIST:           "用户名已被使用， 请重新输入",

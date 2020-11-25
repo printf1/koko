@@ -2,19 +2,22 @@ package utils
 
 import (
 	"fmt"
-	//"log"
 	"gopkg.in/ini.v1"
 )
 
 var (
-	Mode     string
-	HttpPort string
-	Db       string
-	DbHost   string
-	DbPort   string
-	DbUser   string
-	DbPasswd string
-	DbName   string
+	Mode        string
+	HttpPort    string
+	Db          string
+	DbHost      string
+	DbPort      string
+	DbUser      string
+	DbPasswd    string
+	DbName      string
+	RedisHost   string
+	RedisPort   string
+	RedisPasswd string
+	RedisDB     string
 )
 
 func Init() {
@@ -24,6 +27,7 @@ func Init() {
 	}
 	LoadServer(file)
 	LoadData(file)
+	LoadRedis(file)
 }
 
 func LoadServer(file *ini.File) {
@@ -38,4 +42,11 @@ func LoadData(file *ini.File) {
 	DbUser = file.Section("Database").Key("DbUser").MustString("mysql")
 	DbPasswd = file.Section("Database").Key("DbPasswd").MustString("123456")
 	DbName = file.Section("Database").Key("DbName").MustString("gin")
+}
+
+func LoadRedis(file *ini.File) {
+	RedisHost = file.Section("Redis").Key("Host").MustString("139.196.56.88")
+	RedisPort = file.Section("Redis").Key("Port").MustString("6379")
+	RedisPasswd = file.Section("Redis").Key("Passwd").MustString("123456")
+	RedisDB = file.Section("Redis").Key("RedisDB").MustString("0")
 }

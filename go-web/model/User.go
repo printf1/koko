@@ -25,6 +25,9 @@ func CheckUser(name string) int {
 }
 
 func AddUser(data *User) int {
+	//if boo := conn.NewRecord(&data); boo != true {
+	//	return errmsg.USER_EXIST
+	//}
 	err := conn.Create(&data).Error
 	if err != nil {
 		return errmsg.ERROR

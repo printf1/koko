@@ -2,6 +2,7 @@ package model
 
 import (
 	"fmt"
+	"github.com/go-redis/redis/v8"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 	"go-web/utils"
@@ -11,13 +12,15 @@ import (
 var (
 	driver = utils.Db
 	conn   *gorm.DB
-	err    error
+	//cnn    *redis.Conn
+	err error
 )
 
 func InitDb() *gorm.DB {
 	//utils.Init()
 	//fmt.Println(utils.Db, utils.DbHost, utils.DbPasswd)
-	conn, err = gorm.Open(utils.Db, fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4", utils.DbUser, utils.DbPasswd, utils.DbHost, utils.DbPort, utils.DbName))
+	conn, err = gorm.Open(utils.Db, fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8&parseTime=true", utils.DbUser, utils.DbPasswd, utils.DbHost, utils.DbPort, utils.DbName))
+
 	//defer conn.Close()
 	conn.SingularTable(true)
 	//连接池最大闲置数
@@ -34,4 +37,13 @@ func InitDb() *gorm.DB {
 		fmt.Printf("连接%s:%s数据库实例失败", utils.DbHost, utils.DbName)
 	}
 	return conn
+}
+
+func RedisInit() *redis.Client {
+	cnn := redis.NewClient(&redis.Options{
+		Addr:     "139.196.56.88:6379",
+		Password: "123456",
+		DB:       0,
+	})
+	return cnn
 }
