@@ -3,10 +3,11 @@ package model
 import (
 	"fmt"
 	"github.com/aliyun/alibaba-cloud-sdk-go/sdk"
+	"go-web/utils/errmsg"
 )
 
-func Send(code, tel_number string) {
+func AliMessageSend(Code, Tel_Number string) int {
 	sdk.NewClient()
-	fmt.Println(code, tel_number)
-
+	fmt.Println(Code, Tel_Number)
+	return errmsg.SUCCESS
 }

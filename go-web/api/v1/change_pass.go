@@ -9,20 +9,35 @@ import (
 )
 
 //用户发起重置请求
-func ResetPass(c *gin.Context) {
+func ResetPassword(c *gin.Context) {
+	//获取用户认证信息
 	user, _ := strconv.Atoi(c.Query("username"))
-	tel_Number, _ := strconv.Atoi(c.Query("tel"))
+	Tel_Number, _ := strconv.Atoi(c.Query("tel"))
 	model.RedisInit()
-	code := model.Vertified_Code()
+	code := model.MessageCodeVertified()
 	//redis存储code同时调用短信服务发送code
-	model.Codesave(code, string(user))
-	model.Send_Code(code, string(tel_Number))
+	model.MessageCodeSave(code, string(user))
+	a := model.MessageCodeSend(code, string(Tel_Number))
+	if a != errmsg.SUCCESS {
+		a = errmsg.ERROR
+	}
+	c.JSON(http.StatusOK, gin.H{
+		"status":  a,
+		"data":    user,
+		"massage": errmsg.GetErr(a),
+	})
 }
 
-func Receive_Code(c *gin.Context) {
-	receiveCode, _ := strconv.Atoi(c.Query("receiveCode"))
+//接收用户输入code以及name
+func MessageReceiveCode(c *gin.Context) {
+	//ReceiveCode, _ := strconv.Atoi(c.Query("receiveCode"))
+	UserName, _ := strconv.Atoi(c.Query("username"))
 	//调用redis判断是否过期
-	info := model.Check_Code(string(receiveCode))
+	info := model.MessageCodeCheck(string(UserName))
+	if info != errmsg.SUCCESS {
+		info = errmsg.ERR_TOKEN_WRONG
+	}
+	model.EditUser(string(UserName))
 	//if info == errmsg.ERR_TOKEN_RUNTIME {
 	//	info = errmsg.ERR_TOKEN_RUNTIME
 	//}

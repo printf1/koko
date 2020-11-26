@@ -44,7 +44,7 @@ func GetUsers(pageSize, pageNumber int) []User {
 	return users
 }
 
-func EditUser() int {
+func EditUser(UserName string) int {
 	return 0
 }
 
