@@ -64,7 +64,7 @@ func UserEdit(c *gin.Context) {
 	code := model.CheckUser(string(user))
 
 	if code == errmsg.SUCCESS {
-		code = model.EditUser()
+		code = model.EditUser(string(user))
 	}
 	c.JSON(http.StatusOK, gin.H{
 		"status":  code,

@@ -30,20 +30,18 @@ func ResetPassword(c *gin.Context) {
 
 //接收用户输入code以及name
 func MessageReceiveCode(c *gin.Context) {
-	//ReceiveCode, _ := strconv.Atoi(c.Query("receiveCode"))
+	ReceiveCode, _ := strconv.Atoi(c.Query("receiveCode"))
 	UserName, _ := strconv.Atoi(c.Query("username"))
 	//调用redis判断是否过期
-	info := model.MessageCodeCheck(string(UserName))
-	if info != errmsg.SUCCESS {
+	info := model.MessageCodeCheck(string(ReceiveCode), string(UserName))
+	if info == errmsg.SUCCESS {
+		info = errmsg.SUCCESS
+		model.EditUser(string(UserName))
+	} else if info == errmsg.ERR_TOKEN_WRONG {
 		info = errmsg.ERR_TOKEN_WRONG
+	} else {
+		info = errmsg.ERR_TOKEN_RUNTIME
 	}
-	model.EditUser(string(UserName))
-	//if info == errmsg.ERR_TOKEN_RUNTIME {
-	//	info = errmsg.ERR_TOKEN_RUNTIME
-	//}
-	//if info == errmsg.REVISE_SUCCESS {
-	//	info = errmsg.REVISE_SUCCESS
-	//}
 	c.JSON(http.StatusOK, gin.H{
 		"status":  info,
 		"data":    user,
