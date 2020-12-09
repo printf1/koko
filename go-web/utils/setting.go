@@ -6,18 +6,21 @@ import (
 )
 
 var (
-	Mode        string
-	HttpPort    string
-	Db          string
-	DbHost      string
-	DbPort      string
-	DbUser      string
-	DbPasswd    string
-	DbName      string
-	RedisHost   string
-	RedisPort   string
-	RedisPasswd string
-	RedisDB     string
+	Mode            string
+	HttpPort        string
+	Db              string
+	DbHost          string
+	DbPort          string
+	DbUser          string
+	DbPasswd        string
+	DbName          string
+	RedisHost       string
+	RedisPort       string
+	RedisPasswd     string
+	RedisDB         string
+	RegionID        string
+	AccessKeyID     string
+	AccessKeySecret string
 )
 
 func Init() {
@@ -28,6 +31,7 @@ func Init() {
 	LoadServer(file)
 	LoadData(file)
 	LoadRedis(file)
+	LoadAliyun(file)
 }
 
 func LoadServer(file *ini.File) {
@@ -49,4 +53,10 @@ func LoadRedis(file *ini.File) {
 	RedisPort = file.Section("Redis").Key("Port").MustString("6379")
 	RedisPasswd = file.Section("Redis").Key("Passwd").MustString("123456")
 	RedisDB = file.Section("Redis").Key("RedisDB").MustString("0")
+}
+
+func LoadAliyun(file *ini.File) {
+	RegionID = file.Section("Aliyun").Key("RegionID").MustString("koko")
+	AccessKeyID = file.Section("Aliyun").Key("AccessKeyID").MustString("koko")
+	AccessKeySecret = file.Section("Aliyun").Key("AccessKeySecret").MustString("koko")
 }

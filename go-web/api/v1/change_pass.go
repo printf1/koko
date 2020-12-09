@@ -12,12 +12,13 @@ import (
 func ResetPassword(c *gin.Context) {
 	//获取用户认证信息
 	user, _ := strconv.Atoi(c.Query("username"))
-	Tel_Number, _ := strconv.Atoi(c.Query("tel"))
+	//TelePhoneNumber, _ := strconv.Atoi(c.Query("tel"))
+	TelePhoneNumber := model.GetUserTelePhoneNUmber(string(user))
 	model.RedisInit()
 	code := model.MessageCodeVertified()
 	//redis存储code同时调用短信服务发送code
 	model.MessageCodeSave(code, string(user))
-	a := model.MessageCodeSend(code, string(Tel_Number))
+	a := model.MessageCodeSend(code, TelePhoneNumber)
 	if a != errmsg.SUCCESS {
 		a = errmsg.ERROR
 	}

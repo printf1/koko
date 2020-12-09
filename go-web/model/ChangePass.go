@@ -13,10 +13,17 @@ func MessageCodeVertified() string {
 	return code
 }
 
-func MessageCodeSend(code, Tel_Number string) int {
-	a := AliMessageSend(code, Tel_Number)
+func MessageCodeSend(code, TelePhoneNumber string) int {
+	a := AliMessageSend(code, TelePhoneNumber)
 	if a != errmsg.SUCCESS {
 		return errmsg.ERROR
 	}
 	return a
+}
+
+func GetUserTelePhoneNUmber(user string) string {
+	var users User
+	c := GetDB()
+	c.Select("telephone").Where("username = ?", user).Limit(1).Find(&users)
+	return users.TelePhoneNumber
 }
