@@ -21,9 +21,11 @@ func InitRouter() {
 		*/
 		//uer
 		router.POST("/user/add", v1.UserAdd)
-		router.GET("/user:id/get", v1.UserQuery)
-		router.PUT("/user:id/put", v1.UserEdit)
-		router.DELETE("/user:id/del", v1.UserDel)
+		router.GET("/user/get", v1.UserQuery)
+		router.PUT("/user/put", v1.UserEdit)
+		router.DELETE("/user/del", v1.UserDel)
+		router.PUT("/user/changepasswd", v1.ResetPassword)
+		router.PUT("/user/informationcommit", v1.InformationCommit)
 		//catagory
 		//article
 	}

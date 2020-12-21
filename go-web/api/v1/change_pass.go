@@ -10,27 +10,29 @@ import (
 
 //用户发起重置请求
 func ResetPassword(c *gin.Context) {
-	//获取用户认证信息
-	user, _ := strconv.Atoi(c.Query("username"))
-	//TelePhoneNumber, _ := strconv.Atoi(c.Query("tel"))
-	TelePhoneNumber := model.GetUserTelePhoneNUmber(string(user))
 	model.RedisInit()
+	user := c.Request.URL.Query().Get("username")
+	//fmt.Printf("用户输入为: %s\n", user)
+	TelePhoneNumber := model.GetUserTelePhoneNumber(user)
+	//fmt.Printf("电话: %s", TelePhoneNumber)
 	code := model.MessageCodeVertified()
 	//redis存储code同时调用短信服务发送code
-	model.MessageCodeSave(code, string(user))
-	a := model.MessageCodeSend(code, TelePhoneNumber)
-	if a != errmsg.SUCCESS {
-		a = errmsg.ERROR
+	x := model.MessageCodeSave(code, user)
+	if x == errmsg.SUCCESS {
+		a := model.MessageCodeSend(code, TelePhoneNumber)
+		if a != errmsg.SUCCESS {
+			x = errmsg.ERROR
+		}
 	}
 	c.JSON(http.StatusOK, gin.H{
-		"status":  a,
+		"status":  x,
 		"data":    user,
-		"massage": errmsg.GetErr(a),
+		"massage": errmsg.GetErr(x),
 	})
 }
 
 //接收用户输入code以及name
-func MessageReceiveCode(c *gin.Context) {
+func InformationCommit(c *gin.Context) {
 	ReceiveCode, _ := strconv.Atoi(c.Query("receiveCode"))
 	UserName, _ := strconv.Atoi(c.Query("username"))
 	//调用redis判断是否过期

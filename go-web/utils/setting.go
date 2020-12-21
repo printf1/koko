@@ -21,6 +21,8 @@ var (
 	RegionID        string
 	AccessKeyID     string
 	AccessKeySecret string
+	SignName        string
+	TemplateCode    string
 )
 
 func Init() {
@@ -59,4 +61,6 @@ func LoadAliyun(file *ini.File) {
 	RegionID = file.Section("Aliyun").Key("RegionID").MustString("koko")
 	AccessKeyID = file.Section("Aliyun").Key("AccessKeyID").MustString("koko")
 	AccessKeySecret = file.Section("Aliyun").Key("AccessKeySecret").MustString("koko")
+	SignName = file.Section("Aliyun").Key("SignName").MustString("koko")
+	TemplateCode = file.Section("Aliyun").Key("TemplateCode").MustString("koko")
 }

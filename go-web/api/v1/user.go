@@ -20,17 +20,38 @@ func UserAdd(c *gin.Context) {
 		fmt.Println(err)
 		return
 	}
-	code := model.CheckUser(user.Username)
-	if code == errmsg.SUCCESS {
-		model.AddUser(&user)
+	returnCode := model.CheckUser(user.Username)
+	if returnCode == errmsg.SUCCESS {
+		//用户发送验证短信
+		TelePhoneNumber := user.Phone
+		code := model.MessageCodeVertified()
+		//redis存储code同时调用短信服务发送code
+		x := model.MessageCodeSave(code, user.Username)
+		if x == errmsg.SUCCESS {
+			a := model.MessageCodeSend(code, TelePhoneNumber)
+			if a != errmsg.SUCCESS {
+				x = errmsg.ERROR
+			}
+
+			b := model.AddUser(&user)
+			if b != errmsg.SUCCESS {
+				x = errmsg.ERROR
+			}
+			c.JSON(http.StatusOK, gin.H{
+				"status":  x,
+				"data":    user,
+				"massage": errmsg.GetErr(x),
+			})
+		}
+
 	}
-	if code == errmsg.USER_EXIST {
-		code = errmsg.USER_EXIST
+	if returnCode == errmsg.USER_EXIST {
+		returnCode = errmsg.USER_EXIST
 	}
 	c.JSON(http.StatusOK, gin.H{
-		"status":  code,
+		"status":  returnCode,
 		"data":    user,
-		"massage": errmsg.GetErr(code),
+		"massage": errmsg.GetErr(returnCode),
 	})
 }
 

@@ -8,10 +8,10 @@ import (
 
 type User struct {
 	gorm.Model
-	Username        string `gorm: "type: varchar(20); not null" json:"username"`
-	Password        string `gorm: "type: varchar(20); not null" json:"password"`
-	Address         string `gorm: "type: varchar(40); not null" json:"address"`
-	TelePhoneNumber string `gorm: "type: varchar(11); not null" json:"telephone"`
+	Username string `gorm: "type: varchar(20); not null" json:"username"`
+	Password string `gorm: "type: varchar(20); not null" json:"password"`
+	Address  string `gorm: "type: varchar(40); not null" json:"address"`
+	Phone    string `gorm: "type: varchar(20); not null" json:"phone"`
 }
 
 func CheckUser(name string) int {
