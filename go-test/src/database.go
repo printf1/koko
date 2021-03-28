@@ -10,8 +10,8 @@ import (
 var (
 	drivername = "mysql"
 	user = "root"
-	passwd = "123456"
-	ipaddress = "139.224.65.35"
+	passwd = ""
+	ipaddress = ""
 	port = "3306"
 	database = "mysql"
 )
