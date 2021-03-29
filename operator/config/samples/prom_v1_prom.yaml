@@ -1,0 +1,7 @@
+apiVersion: prom.my.domain/v1
+kind: Prom
+metadata:
+  name: prom-sample
+spec:
+  # Add fields here
+  foo: bar
