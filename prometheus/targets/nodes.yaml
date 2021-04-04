@@ -1,0 +1,6 @@
+- targets:
+  - 139.196.56.88:32256
+  - 1.15.175.173:32256
+  labels:
+    app: prom
+    job: master
