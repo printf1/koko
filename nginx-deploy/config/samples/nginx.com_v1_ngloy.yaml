@@ -1,0 +1,23 @@
+apiVersion: nginx.com.kblog.club/v1
+kind: Ngloy
+metadata:
+  name: ngloy-sample
+  namespace: default
+spec:
+  # Add fields here
+  #cpu: 100m
+  #memory: 512M
+  resources:
+    limits:
+      cpu: 100m
+      memory: 512M
+    requests:
+      cpu: 100m
+      memory: 256M
+  size: 4
+  image: nginx:latest
+  ports:
+   - port: 80
+     name: nginx
+     targetPort: 80
+     nodePort: 32255

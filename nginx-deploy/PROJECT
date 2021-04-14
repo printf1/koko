@@ -1,0 +1,18 @@
+domain: kblog.club
+layout: go.kubebuilder.io/v3
+plugins:
+  manifests.sdk.operatorframework.io/v2: {}
+  scorecard.sdk.operatorframework.io/v2: {}
+projectName: nginx-deploy
+repo: Gin
+resources:
+- api:
+    crdVersion: v1
+    namespaced: true
+  controller: true
+  domain: kblog.club
+  group: nginx.com
+  kind: Ngloy
+  path: Gin/api/v1
+  version: v1
+version: "3"
