@@ -1,0 +1,1 @@
+1: 测试用的nginx-operator, 提交后会创建一个nginx控制器和nodePort类型的Service
